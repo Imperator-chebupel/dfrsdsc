@@ -1,0 +1,15 @@
+C:\Users\azza1\OneDrive\Рабочий стол\Информатика\c\Курсовая_с_мощным_интерфейсом\obj\Debug\Курсовая_с_мощным_интерфейсом.csproj.AssemblyReference.cache
+C:\Users\azza1\OneDrive\Рабочий стол\Информатика\c\Курсовая_с_мощным_интерфейсом\obj\Debug\Курсовая_с_мощным_интерфейсом.csproj.SuggestedBindingRedirects.cache
+C:\Users\azza1\OneDrive\Рабочий стол\Информатика\c\Курсовая_с_мощным_интерфейсом\obj\Debug\Курсовая_с_мощным_интерфейсом.Form1.resources
+C:\Users\azza1\OneDrive\Рабочий стол\Информатика\c\Курсовая_с_мощным_интерфейсом\obj\Debug\Курсовая_с_мощным_интерфейсом.Properties.Resources.resources
+C:\Users\azza1\OneDrive\Рабочий стол\Информатика\c\Курсовая_с_мощным_интерфейсом\obj\Debug\Курсовая_с_мощным_интерфейсом.csproj.GenerateResource.cache
+C:\Users\azza1\OneDrive\Рабочий стол\Информатика\c\Курсовая_с_мощным_интерфейсом\obj\Debug\Курсовая_с_мощным_интерфейсом.csproj.CoreCompileInputs.cache
+C:\Users\azza1\OneDrive\Рабочий стол\Информатика\c\Курсовая_с_мощным_интерфейсом\bin\Debug\Курсовая_с_мощным_интерфейсом.exe.config
+C:\Users\azza1\OneDrive\Рабочий стол\Информатика\c\Курсовая_с_мощным_интерфейсом\bin\Debug\Курсовая_с_мощным_интерфейсом.exe
+C:\Users\azza1\OneDrive\Рабочий стол\Информатика\c\Курсовая_с_мощным_интерфейсом\bin\Debug\Курсовая_с_мощным_интерфейсом.pdb
+C:\Users\azza1\OneDrive\Рабочий стол\Информатика\c\Курсовая_с_мощным_интерфейсом\obj\Debug\Курсовая_с_мощным_интерфейсом.exe
+C:\Users\azza1\OneDrive\Рабочий стол\Информатика\c\Курсовая_с_мощным_интерфейсом\obj\Debug\Курсовая_с_мощным_интерфейсом.pdb
+C:\Users\azza1\OneDrive\Рабочий стол\Информатика\c\Курсовая_с_мощным_интерфейсом\obj\Debug\Курсовая_с_мощным_интерфейсом.Form2.resources
+C:\Users\azza1\OneDrive\Рабочий стол\Информатика\c\Курсовая_с_мощным_интерфейсом\bin\Debug\Newtonsoft.Json.dll
+C:\Users\azza1\OneDrive\Рабочий стол\Информатика\c\Курсовая_с_мощным_интерфейсом\bin\Debug\Newtonsoft.Json.xml
+C:\Users\azza1\OneDrive\Рабочий стол\Информатика\c\Курсовая_с_мощным_интерфейсом\obj\Debug\Курсовая_с_мощным_интерфейсом.csproj.CopyComplete
